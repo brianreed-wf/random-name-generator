@@ -1,0 +1,13 @@
+#timer, #name, #runButton {
+	width: 100%;
+}
+
+#timer-inner, #name-inner {
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+	font-size: 130;
+}
